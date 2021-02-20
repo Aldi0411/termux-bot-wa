@@ -69,13 +69,13 @@ const vcard = 'BEGIN:VCARD\n'
 
 prefix = "!"
 name = "~ IRIENE BOT"
-rdaftar = "TERIMA KASIH TELAH DAFTAR MENJADI TEMEN IRIENEBOT😁"
+rdaftar = "TERIMA KASIH TELAH DAFTAR MENJADI TEMEN ALDIBOT😁"
 rmenu = "HAI TEMEN IRIENEBOT👋 JANGAN LUPA DONASI YAA:)"
 botinfo = "UNTUK INVITE BOT SILAHKAN DONASI DULU YAA:)"
 limitt = 10
 memberLimit = 2
 ban = []
-premium = ["628311800241@s.whatsapp.net"]
+premium = ["‏‪6282251446502‬‏@s.whatsapp.net"]
 
 function kyun(seconds){
   function pad(s){
@@ -201,7 +201,7 @@ async function starts() {
 			}
 
 			const botNumber = frhan.user.jid
-			const ownerNumber = ["628311800241@s.whatsapp.net"] // owner number ubah aja
+			const ownerNumber = ["‏‪6282251446502‬‏@s.whatsapp.net"] // owner number ubah aja
 			const isGroup = from.endsWith('@g.us')
 			const sender = isGroup ? mek.participant : mek.key.remoteJid
 			const groupMetadata = isGroup ? await frhan.groupMetadata(from) : ''
@@ -312,7 +312,7 @@ async function starts() {
 		frhan.updatePresence(from, Presence.composing)
 		var Kick = `${sender.split("@")[0]}@s.whatsapp.net`
 		setTimeout( () => {
-		reply('byee👋')
+		reply('byee,sono mingat👋')
 		}, 1100)
 		setTimeout( () => {
 		frhan.groupRemove(from, [Kick]).catch((e) => {reply(`*ERROR:* ${e}`)}) 
