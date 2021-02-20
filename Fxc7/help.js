@@ -324,18 +324,6 @@ https://chat.whatsapp.com/GHC5djoQJrcGBJFwYQuQoB
 │➻ *${prefix}smule Link Video Smule*
 ┬
 ╰────────────────────────
-
-
-╭─────「 *SUPPORT ${name}* 」
-┴
-│➲ *O BOT*
-│➲ *M. HADI FIRMANSYA*
-│➲ *DELIA AULIA*
-│➲ *KEVIN DAVID*
-│➲ *MY TEAM FXC7 BOT*
-│➲ *CONTENT CREATOR BOT WHATSAPP*
-┬
-╰────────────────────────`
 }
 
 exports.help = help
@@ -366,9 +354,10 @@ const donasi = (name) => {
 	return `       
 ╭─────「 *DONASI SEIKHLASNYA* 」
 ┴
-│√ *PULSA: 08311800241*
-│√ *OVO : 08311800241*
-│
+│√ *PULSA: 085751928963*
+│√ *OVO  : 085751928963*
+│√ *Gopay: 085751928963*
+│√ *Dana : 085751928963*
 │\`\`\`Pulsa\`\`\`
 │ *15k Invite Bot Ke Grup selama 1 bulan*
 │
