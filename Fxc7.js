@@ -62,15 +62,15 @@ const { wait, simih, getBuffer, h2k, generateMessageID, getGroupAdmins, getRando
 
 const vcard = 'BEGIN:VCARD\n'
             + 'VERSION:3.0\n'
-            + 'FN:Farhan\n'
-            + 'ORG:Owner FXC7;\n'
-            + 'TEL;type=CELL;type=VOICE;waid=628311800241:+62 831-1800-241\n'
+            + 'FN:ALDI\n'‬‏
+            + 'ORG:Owner ALDI;\n'
+            + 'TEL;type=CELL;type=VOICE;waid=6282251446502:+62 822-5144-6502\n'
             + 'END:VCARD'
 
 prefix = "!"
-name = "~ IRIENE BOT"
+name = "~ ALDI BOT"
 rdaftar = "TERIMA KASIH TELAH DAFTAR MENJADI TEMEN ALDIBOT😁"
-rmenu = "HAI TEMEN IRIENEBOT👋 JANGAN LUPA DONASI YAA:)"
+rmenu = "HAI TEMEN ALDIBOT👋 JANGAN LUPA DONASI YAA:)"
 botinfo = "UNTUK INVITE BOT SILAHKAN DONASI DULU YAA:)"
 limitt = 10
 memberLimit = 2
