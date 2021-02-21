@@ -9,7 +9,7 @@ ${instagram}
 ${yt}
 
 \`\`\`GROUP OFFICIAL\`\`\`
-https://chat.whatsapp.com/GHC5djoQJrcGBJFwYQuQoB
+https://chat.whatsapp.com/Bdo3K1h61R4DA9AEgq9PnB
 
 
 \`\`\`HARAP BACA NOTE DIBAWAH SEBELUM\`\`\`
