@@ -62,7 +62,7 @@ const { wait, simih, getBuffer, h2k, generateMessageID, getGroupAdmins, getRando
 
 const vcard = 'BEGIN:VCARD\n'
             + 'VERSION:3.0\n'
-            + 'FN:ALDI\n'‬‏
+            + 'FN:Farhan\n'‬‏
             + 'ORG:Owner ALDI;\n'
             + 'TEL;type=CELL;type=VOICE;waid=6282251446502:+62 822-5144-6502\n'
             + 'END:VCARD'
